@@ -20,6 +20,11 @@ p.stage-direction:hover{
     background-color: yellow;
     color: blue;
 }
+h6.name:hover{
+    text-shadow: 3px 3px yellow;
+    filter: blur(0.8px);
+    border: 1px solid black;
+}
 h6.Lady_hunstanton{
     color:blue;
 }
