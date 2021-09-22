@@ -1,4 +1,4 @@
 # WebApps-F21-Assignment-4
 A practice assignment for HTML with CSS
 
-[Hosted By][https://44-563-webapps-f21.github.io/webapps-f21-assignment-4-akhilyarlagadda9/play.html]
+[Link][https://44-563-webapps-f21.github.io/webapps-f21-assignment-4-akhilyarlagadda9/play.html]
