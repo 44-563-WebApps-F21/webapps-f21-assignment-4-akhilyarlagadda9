@@ -21,8 +21,7 @@ p.stage-direction:hover{
     color: blue;
 }
 h6.name:hover{
-    text-shadow: 3px 3px yellow;
-    filter: blur(0.8px);
+    text-shadow: 3px 3px 2px yellow;
     border: 1px solid black;
 }
 h6.Lady_hunstanton{
@@ -48,3 +47,26 @@ td, th{
 tr:nth-child(odd){
 background-color: lightgray;
 }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: lightskyblue;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: coral;
+  }
